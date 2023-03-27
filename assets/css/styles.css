@@ -67,7 +67,3 @@ fieldset legend {
     left: auto;
     right: 4px;
   }
-
-  .form-control{
-      border-radius: 0;
-  }
